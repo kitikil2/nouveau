@@ -11,7 +11,7 @@ package javaapplication7;
  * @author ko
  */
 public class JavaApplication7 {
-
+    // La classe est vide???? Pas d'attributs, ni de méthode
     /**
      * @param args the command line arguments
      */
